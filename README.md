@@ -49,12 +49,4 @@ DeepMemoryChat/
 
 Feel free to fork this repository, make changes, and submit a pull request. Contributions are welcome.
 
-## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## 📫 Contact
-
-Author: Your Name  
-Email: your.email@example.com  
-Repository: https://github.com/your-username/DeepMemoryChat
